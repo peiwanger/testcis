@@ -8,3 +8,4 @@ test commit 2
 test commit 3
 
 retest commit 1
+retest commit 2
