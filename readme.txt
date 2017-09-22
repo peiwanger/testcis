@@ -11,4 +11,4 @@ test commit 3
 retest commit 1
 retest commit 2
 change same line again
-rechange one line
+rechange one line again
